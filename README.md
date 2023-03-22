@@ -1,8 +1,8 @@
 parser_vk_api# Для парсинга данных с веб-сайта vk.com необходимо использовать API VK, доступный через модуль vk_api для языка программирования Python.
 
 1. Установка необходимых библиотек:
-#pip install vk_api
-#pip install requests
+pip install vk_api
+pip install requests
 
 2. Получение токена доступа:
 Чтобы использовать API VK, необходимо получить токен доступа. Это можно сделать, следуя инструкциям на странице [https://vk.com/dev/access_token].
